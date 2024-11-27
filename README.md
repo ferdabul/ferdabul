@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdabul&label=Profile%20views&color=0e75b6&style=flat" alt="ferdabul" /> </p>
 
-<p align="left"> 
+<p align="right"> 
  <!--<a href="https://github.com/ryo-ma/github-profile-trophy">-->
  <img src="https://github-profile-trophy.vercel.app/?username=ferdabul" alt="ferdabul" /></a> </p>
 <!-- x-->
