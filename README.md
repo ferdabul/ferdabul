@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md.Abul Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/fb/16/4c/fb164c25c9c83206fef9028a91ebfeb9.gif">
+<img align="left" alt="coding" width="400" src="https://i.pinimg.com/originals/fb/16/4c/fb164c25c9c83206fef9028a91ebfeb9.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdabul&label=Profile%20views&color=0e75b6&style=flat" alt="ferdabul" /> </p>
